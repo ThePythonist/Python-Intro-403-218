@@ -1,8 +1,5 @@
-a = 50
-b = 30
-# a = b
-# b = a
+numbers = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
-# dar khat 7 va 8 moteghayer ha ra print kardam
-print(a)
-print(b)
+for i in numbers:
+    for j in i:
+        print(j)
