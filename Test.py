@@ -1,5 +1,6 @@
-numbers = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+def func():
+    return "hello from return 1"
+    return "hello from return 2"
 
-for i in numbers:
-    for j in i:
-        print(j)
+
+print(func())
