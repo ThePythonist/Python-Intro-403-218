@@ -1,0 +1,3 @@
+S13 :
+lambda in python
+map,filter,zip in python
