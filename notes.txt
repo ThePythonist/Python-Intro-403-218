@@ -5,3 +5,7 @@ map,filter,zip in python
 S16 :
 working with files in python
 backend, frontend
+
+S20 :
+python important libraries & frameworks
+math library functions in python
